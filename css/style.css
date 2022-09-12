@@ -1,0 +1,166 @@
+@font-face {
+    font-family: AEH;
+    src: url(../fonts/AEH.ttf);
+}
+
+@font-face {
+    font-family: Comfortaa;
+    src: url(../fonts/Comfortaa.ttf);
+}
+
+@font-face {
+    font-family: JosefinSans-SemiBold;
+    src: url(../fonts/JosefinSans-SemiBold.ttf);
+}
+
+body {
+    background-color: #f1ee11f1;
+    margin:0 auto;
+}
+
+#container {
+    width: 65%;
+    margin: auto;
+    background-color: #e8dfd4;
+    height: 450px;
+    margin-top: 5%;
+    position: relative;
+}
+
+.orange {
+    position: relative;
+
+}
+
+#paw1-top {
+    position: absolute;
+    left: 88%;
+    top:25%;
+}
+
+#paw2-top {
+    position: absolute;
+    left: 92%;
+    top:6%;
+}
+
+#paw3-top {
+    position: absolute;
+    left: 80%;
+    top:10%;
+}
+
+#logo {
+    position: absolute;
+    left: 27%;
+    top:19%;
+}
+
+h1 {
+    margin: 8px 0px;
+    font-family: AEH;
+    font-size: 98px;
+    position: absolute;
+    left: 14%;
+    top:19%;
+    
+}
+
+#small {
+    margin: 8px 0px;
+    font-family: AEH;
+    position: absolute;
+    font-size: 53px;
+    left: 13.5%;
+    top:43%;
+}
+
+p.text {
+    font-family: AEH;
+    font-size: 10px;
+    position: absolute;
+    left: 14%;
+    top:67%;
+    text-align: center;
+    color: #103956; 
+}
+
+#aid {
+    font-family: Comfortaa;
+    position: absolute;
+    font-size: 32px;
+    left: 13.5%;
+    top:53%;
+}
+
+#site {
+    position: absolute;
+    font-size: 10px;
+    left: 29%;
+    top:78%;
+    background-color: #103956;
+    color: white;
+    padding: 2px 6px;
+    font-family: JosefinSans-SemiBold;
+}
+
+#sketch-mark {
+    position: absolute;
+    font-size: 10px;
+    left: 47%;
+    top:78%;
+}
+
+#blue-shape {
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+}
+
+#dog-img {
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+}
+#t-icon {
+    position: absolute;
+    left: 37%;
+    top:86.3%;
+}
+#f-icon {
+    position: absolute;
+    left: 29%;
+    top:86%;
+}
+#i-icon {
+    position: absolute;
+    left: 33%;
+    top:86%;
+}
+
+#paw1-bottom {
+    position: absolute;
+    left: 12%;
+    top:85%;
+}
+
+#paw2-bottom {
+    position: absolute;
+    left: 2%;
+    top:85%;
+    
+}
+
+#paw3-bottom {
+    position: absolute;
+    left: 4%;
+    top:70%;
+}
+
+#yellow {
+    position: absolute;
+    left: 55%;
+    top:21%;
+}
+
+
